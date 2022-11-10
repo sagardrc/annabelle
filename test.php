@@ -1,0 +1,3 @@
+<?php phpinfo(); ?>
+
+Hello Test
